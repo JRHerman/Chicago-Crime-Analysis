@@ -11,16 +11,25 @@ crimes.txt: DateTime, Code, Arrested, Domestic, Beat, Ward, Community, Year
 
 In the future I am working on adding several new features to improve runtime and allow a deeper analysis of the databases. I will be updating this as I add all of the new features. 
 
-//TODO: TOP N Crimes 
-//TODO: TOP N Crimes per area
-//TODO: N Crime Codes 
-//TODO: Match area name to area if possible
-//TODO: Crimes that lead to most arrests
-//TODO: Crimes that lead to least arrests
-//TODO: Refactoring
-//TODO: Event driven loop
-//TODO: Improve runtime speed 
-//TODO: Improve user-interaction texts 
+TODO: TOP N Crimes 
+
+TODO: TOP N Crimes per area
+
+TODO: N Crime Codes 
+
+TODO: Match area name to area if possible
+
+TODO: Crimes that lead to most arrests
+
+TODO: Crimes that lead to least arrests
+
+TODO: Refactoring
+
+TODO: Event driven loop
+
+TODO: Improve runtime speed 
+
+TODO: Improve user-interaction texts 
 
 
 
